@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/iconos">
+        <file>abrir.png</file>
+        <file>azul-otra-vez-icono-3840-32.png</file>
+        <file>cerrar-borrar-la-salida-icono-8537-32.png</file>
+        <file>nuevo.png</file>
+        <file>red-deshacer-icono-9734-32.png</file>
+        <file>save.png</file>
+        <file>Play-1-Hot-icon.png</file>
+        <file>Play-2-Hot-icon.png</file>
+        <file>abrir-el-archivo-icono-7135-32.png</file>
+        <file>como-un-registro-en-papel-icono-9371-32.png</file>
+        <file>copiar-los-archivos-de-documentos-de-icono-4275-32.png</file>
+        <file>cortar-icono-9536-32.png</file>
+        <file>guardar-archivo-icono-6713-32.png</file>
+        <file>pegar-icono-6798-32.png</file>
+    </qresource>
+</RCC>

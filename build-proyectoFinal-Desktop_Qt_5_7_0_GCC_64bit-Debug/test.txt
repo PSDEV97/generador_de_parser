@@ -1,0 +1,15 @@
+Inicio
+
+	#include <iostream>:
+
+	Funcion TipoBooleano escriba1 (TipoBooleano eres1, TipoNumerico abs1, TipoCaracter asd1)
+
+	TipoNumerico a1d := 23;
+
+	Si ( a1 > b1 & B < c )
+		Retorna a2;
+	FinSi
+
+	FinFuncion
+
+Final
